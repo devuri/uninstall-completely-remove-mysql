@@ -1,5 +1,5 @@
-# uninstall-completely-remove-mysql
-UNINSTALL OR COMPLETELY REMOVE MYSQL
+# How do I uninstall MySQL completely
+uninstall MySQL completely
 
 ```
 sudo apt-get remove --purge mysql*
